@@ -9,3 +9,4 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 📋 Projetos 
 
 * [Heart](https://github.com/vinisilvf/Basics-Projects/tree/main/heart)
+* [Weather-App](https://github.com/vinisilvf/Basics-Projects/tree/main/Weather-App)
